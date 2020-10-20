@@ -1,5 +1,5 @@
 <?php 
 
-echo 'hello config 20-10-2020';
+echo 'hello my config 20-10-2020';
 
 ?>

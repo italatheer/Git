@@ -1,5 +1,5 @@
 <?php?
 
-echo 'hello index 20-10-2020';
+echo 'hello my index 20-10-2020';
 
 >

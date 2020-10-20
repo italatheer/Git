@@ -1,5 +1,5 @@
 <?php?
 
-echo 'welcome to my index 20-10-2020 ....';
+echo 'welcome to my index file this day man 20-10-2020 ....';
 
 >
